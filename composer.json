@@ -1,5 +1,5 @@
 {
-    "name": "hackerone/curl",
+    "name": "dlinny/curl",
     "description": "Curl Wrapper for PHP",
     "keywords": ["yii curl", "curl", "http request", "get", "post", "put", "symfony", "delete", "header", "post file"],
     "type": "curl-wrapper",
